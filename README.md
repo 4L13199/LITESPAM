@@ -1,2 +1,16 @@
 # LITESPAM
-Assalamualaikum :) sebelumnya terimakasih telah memakai tool ini walaupun hanya sekedar penggabungan :(  ada 5 Spam Disini Semuanya Work Karena Telah Di Test
+Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited
+
+# INSTALASI
+` ` `
+$ pkg install git
+$ pkg install toilet
+$ pkg install figlet
+$ pkg install php
+$ pkg install python2
+$ git clone https://github.com/4L13199/LITESPAM
+$ cd LITESPAM
+$ sh LITESPAM.sh
+` ` `
+# PERINGATAN
+
