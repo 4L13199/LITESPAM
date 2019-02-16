@@ -51,7 +51,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
-cd Tul/
+cd $HOME/LITESPAM/Tul/
 php 2.php
 fi
 
@@ -66,7 +66,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd Tul/
+cd $HOME/LITESPAM/Tul/
 php 3.php
 fi
 
@@ -81,7 +81,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd Tul/<<
+cd $HOME/LITESPAM/Tul/
 php 4.php
 fi
 
@@ -100,7 +100,7 @@ sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
 clear
-cd Tul/
+cd $HOME/LITESPAM/Tul/
 php 5.php
 fi
 
@@ -114,7 +114,7 @@ echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mphp"
 echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
 sleep 5
-cd Tul/
+cd $HOME/LITESPAM/Tul/
 php 6.php
 fi
 
