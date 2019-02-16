@@ -35,7 +35,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd tul/
+cd $HOME/LITESPAM/Tul/
 php 1
 fi
 
