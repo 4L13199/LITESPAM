@@ -139,9 +139,12 @@ if
 then
 clear
 toilet -f slant --gay "LiteSpam"
-echo "\033[34;1mRepositori:""\033[37;1m https://github.com/4L13199"
+echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
+
+
 sleep 1
 echo "\033[35;1mPemograman:""\033[36;1m Bash"
+
 echo "\033[33;1mKarya: IM81"
 sleep 1
 echo "\033[32;1mVersi: v3"
