@@ -10,7 +10,7 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mIndonesia BAYU MAVLOG""\033[36;1m★"
 sleep 1
 echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
@@ -32,7 +32,7 @@ toilet -f slant "Bukalapak"
 echo "\033[31;1mJenis Spam:""\033[37;1mChat WhatsApp"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
+echo "\033[31;1mAuthor:""\033[37;1mSGB-Team BAYU MAVLOG"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -155,7 +155,7 @@ echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
 echo "\033[35;1m Spesial Thanks To: "
 echo "\033[36;1m"
 echo "Danz"
-echo "Mr.Rm"
+echo "Mr.BAYU"
 echo "SBGTeam"
 echo "amsitlab"
 echo "Bully Hat"
