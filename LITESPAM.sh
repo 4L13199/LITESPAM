@@ -16,8 +16,8 @@ echo "\033[32;1m Spam Yang Tersedia :"
 echo "\033[35;1m1.""\033[36;1mBukalapak"
 echo "\033[35;1m2.""\033[36;1mTelkomsel"
 echo "\033[35;1m3.""\033[36;1mGrab"
-echo "\033[35;1m4.""\033[36;1mTokopedia"
-echo "\033[35;1m5.""\033[36;1mCodaShop"
+
+
 echo "\033[35;1m6.""\033[36;1mSurveyon"
 echo "\033[35;1m7.""\033[36;1mCustom"
 echo "\033[31;1m0. Keluar"
@@ -95,7 +95,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mBullyHat"
 echo
 echo
-echo "\033[33;1mCOPY LISENSI INI:" "\033[36;1mJDJ5JDEwJC9YMWRvNC5jcmNOSUw2dGdUaUt2d08ucWEvWURWSFNCTXI3U21wdkdsR1FMcVBSTW1oNUZH"
+echo "\033[33;1mCOPY LISENSI INI:" "\033[36;1mJDJ5JDEwJC9YMWUaUt2d08ucWEvWURWSFNCTXI3U21wdkdsR1FMcVBSTW1oNUZH"
 sleep 1
 echo "\033[32;1mtunggu 5 Detik"
 sleep 5
@@ -129,7 +129,7 @@ echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
 echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
 echo
 echo
-echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
+echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://progsmatic.github.io/smsid-java/"
 sleep 6
 smsid boom -y
 fi
@@ -164,8 +164,8 @@ echo "Secoly Indonesia"
 echo "BlackHole Security"
 echo "Association Indonesian Right Wings"
 sleep 1
-echo "And All Member Indonesia Security Lite"
-echo "\033[30;1m tunggu 8 detik"
+echo "And All Member Indonesia"
+echo "\033[30;1m tunggu 10 detik"
 sleep 8
 sh LITESPAM.sh
 fi
