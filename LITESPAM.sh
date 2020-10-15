@@ -10,11 +10,9 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[36;1m★""\033[34;1mIndonesia Security Lite""\033[36;1m★"
+echo "\033[36;1m★""\033[34;1mIndonesia BlackHole""\033[36;1m★"
 sleep 1
-echo "\033[32;1m Spam Yang Tersedia :"
-echo "\033[35;1m1.""\033[36;1mBukalapak"
-echo "\033[35;1m2.""\033[36;1mTelkomsel"
+echo "\033[32;1m List Spammer :"
 echo "\033[35;1m3.""\033[36;1mGrab"
 echo "\033[35;1m4.""\033[36;1mTokopedia"
 echo "\033[35;1m5.""\033[36;1mCodaShop"
@@ -63,7 +61,7 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
+echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Cendol"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -129,7 +127,7 @@ echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
 echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
 echo
 echo
-echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
+echo "\033[33;1mBaca Selengkapnya:""\033[36;1mhttps://pronmac92.github.io/smsid-java/"
 sleep 6
 smsid boom -y
 fi
@@ -149,7 +147,7 @@ echo "\033[33;1mKarya: IM81"
 sleep 1
 echo "\033[32;1mVersi: v3"
 sleep 1
-echo "\033[36;1mTeam: Indonesia Security Lite"
+echo "\033[36;1mTeam: BlackHole - HoleBlack"
 sleep 1
 echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
 echo "\033[35;1m Spesial Thanks To: "
@@ -164,7 +162,7 @@ echo "Secoly Indonesia"
 echo "BlackHole Security"
 echo "Association Indonesian Right Wings"
 sleep 1
-echo "And All Member Indonesia Security Lite"
+echo "And All Member BlackHole Indonesian Activist"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh LITESPAM.sh
